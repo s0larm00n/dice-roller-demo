@@ -1,5 +1,7 @@
 ﻿# Dice Roller Demo
 
+! This repo uses Git LFS
+
 This is a sample Unreal project containing short dice rolling simulation. 
 
 Only starter content was used to create this project, so the sound effects don't really match; however, full harmony was not the goal of this specific project.
